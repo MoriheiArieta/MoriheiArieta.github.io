@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    /* text-align: left; */
+    padding: 10px;
+    border: 2px;
+    border-color: yellow;
+    border-style: solid;
+    
+    
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+p {
+    color: white;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    line-height:2;
+    
+}
