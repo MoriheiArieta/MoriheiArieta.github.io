@@ -16,7 +16,7 @@ h1 {
     
 }
 
-p {
+p, ul {
     color: white;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
